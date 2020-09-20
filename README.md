@@ -2,10 +2,6 @@
 www.linkedin.com/in/vardhini-kedarisetty-320131168
 
 ### Hi there 👋
-
-<!--
-**vardhinikedarisetty/vardhinikedarisetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 i am vardhini kedarisetty.iam always open to learn new things
 and also a good team player.my strengths are statistics and
 python for data science.i ahve a basic knowlege in ML,DL and NLP.
